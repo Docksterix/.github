@@ -20,9 +20,6 @@
 
 <img alt="Soon" src="https://cdn.discordapp.com/attachments/1060130912760766564/1166389905908322364/I3X4.gif?ex=654a5040&is=6537db40&hm=dc10a133d2384666f815c780edffee459cae54d8a683ba3529bb0f3098ae2b62&" style="width: 400px; height: auto;"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
